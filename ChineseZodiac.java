@@ -17,17 +17,17 @@ public class ChineseZodiac {
         int sc = year %12;
         switch (sc){
             case 0 : System.out.println("The zodiac year your were born is Monkey "); break;
-            case 1 : System.out.println("The zodiac year your were born is Rooster "); break;
-            case 2 : System.out.println("The zodiac year your were born is Dog "); break;
-            case 3 : System.out.println("The zodiac year your were born is Pig "); break;
-            case 4 : System.out.println("The zodiac year your were born is Rat "); break;
-            case 5 : System.out.println("The zodiac year your were born is Ox "); break;
-            case 6 : System.out.println("The zodiac year your were born is Tiger "); break;
-            case 7 : System.out.println("The zodiac year your were born is Rabbit "); break;
-            case 8 : System.out.println("The zodiac year your were born is Dragon "); break;
-            case 9 : System.out.println("The zodiac year your were born is Snake "); break;
-            case 10: System.out.println("The zodiac year your were born is horse "); break;
-            case 11: System.out.println("The zodiac year your were born is Sheep "); break;
+            case 1 : System.out.println("The zodiac year you were born is Rooster "); break;
+            case 2 : System.out.println("The zodiac year you were born is Dog "); break;
+            case 3 : System.out.println("The zodiac year you were born is Pig "); break;
+            case 4 : System.out.println("The zodiac year you were born is Rat "); break;
+            case 5 : System.out.println("The zodiac year you were born is Ox "); break;
+            case 6 : System.out.println("The zodiac year you were born is Tiger "); break;
+            case 7 : System.out.println("The zodiac year you were born is Rabbit "); break;
+            case 8 : System.out.println("The zodiac year you were born is Dragon "); break;
+            case 9 : System.out.println("The zodiac year you were born is Snake "); break;
+            case 10: System.out.println("The zodiac year you were born is horse "); break;
+            case 11: System.out.println("The zodiac year you were born is Sheep "); break;
         }
     }
     
